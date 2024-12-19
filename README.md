@@ -1,17 +1,27 @@
 # re-actions
 
 ## Basic Overview
-Re-Actions is a GitHub Action that took a starter code and create a CI/CD pipeline using GitHub Actions to run the component tests via Cypress when a Pull Request is made to the develop branch, and the application is deployed when code is merged from develop to the main branch.
+Re-Actions is a application that utilizes the GitHub Action to ensure that certain quality checks are met prior to merging to important branches such as main. Before the project code was added, a CI/CD pipeline using GitHub Actions was created to run the component tests via Cypress when a Pull Request is made to the develop branch, and the application is deployed when code is merged from develop to the main branch.
 
 
 ## Walkthrough
-The screenschots below will show you the mock-up of My-Personal-Weather app and the deployed link.
+The screenschots below will show you the mock-up of the GitHub Action.
 
 ### Screenshots
 
-![alt text](image.png)
+GitHub Action
+
+![GitHub Action](./assets/Screenshot.png)
+
+Test Page
+
+![GitHub Action](./assets/Screenshot2.png)
+
+
 ### Link
-    [Link](https://my-personal-weather.onrender.com)
+Deployed URL:
+
+[Link](https://re-actions.onrender.com)
 
 
 ## Contribution
